@@ -1,0 +1,21 @@
+{
+  "name": "email-service-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.5",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.7"
+  },
+  "engines": {
+    "node": ">=16.4.0"
+  },
+  "author": "Ulises Tobar",
+  "license": "ISC"
+}
