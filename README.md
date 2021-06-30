@@ -5,7 +5,7 @@ https://commerce-email-service.jobs2021.repl.co
 
 ## Variables de entorno
 
-| Nombre | URL | Descripcion |
+| Nombre | Example | Descripcion |
 | --- | --- | --- |
 | PORT | 3001 | Puerto en el que correra la app
 | APP_X_ACCESS_TOKEN | AABBCCAABBCC | Token secreto para interactuar entre microservicos |
